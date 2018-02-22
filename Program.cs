@@ -10,7 +10,7 @@ namespace ConsoleApp13
     {
         static void Main(string[] args)
         {
-            var
+            
         }
     }
 }
